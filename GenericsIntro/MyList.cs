@@ -21,6 +21,7 @@ namespace GenericsIntro
                 items[i] = tempArry[i];
             }
 
+
             items[items.Length - 1] = item;
 
         }
